@@ -1,13 +1,13 @@
 # cornerstone project
 
-Requirement
-:nodejs
-:express
+Requirements:
+ * nodejs
+ * express
 
 Run
 
-```sh
-node server
+```bash
+$> node server
 ```
 view in your browser [link][1].
 
